@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-dify",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["AI", "Miscellaneous"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.dify.ai/guides/application-publishing/developing-with-apis"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/YushiYamamoto/n8n-nodes-dify?tab=readme-ov-file"
+			}
+		]
+	}
+}
