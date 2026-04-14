@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-dify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "n8n community node for Dify API integration",
   "license": "MIT",
   "homepage": "https://github.com/YushiYamamoto/n8n-nodes-dify",
